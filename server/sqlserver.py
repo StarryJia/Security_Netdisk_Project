@@ -1,4 +1,4 @@
-# -*- codeing = uef-8 -*-
+# -*- coding = utf-8 -*-
 # @Time:2021/9/6 20:03
 # @Author:刘双鱼
 # @File:sqlserver.py
