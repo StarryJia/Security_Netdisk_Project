@@ -1,3 +1,10 @@
+# coding=utf-8
+"""
+Auther : StarryJia
+Version : 1.0.0
+Time : 2021.9.7
+"""
+
 from pymysql import DATE
 import socket        # 调用模块
 import json
